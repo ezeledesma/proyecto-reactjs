@@ -3,6 +3,7 @@
 ## Temas Aplicados del Curso
 * Jsx
 * Componentes React
+* Props
   
 > [!NOTE]
 > Sitio aun en desarrollo (primera entrega)

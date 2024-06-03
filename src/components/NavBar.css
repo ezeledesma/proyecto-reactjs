@@ -1,0 +1,29 @@
+.navbar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	gap: 20px;
+	height: 100px;
+}
+
+.navbar .logo {
+	width: 120px;
+	object-fit: contain;
+}
+
+.navbar ul {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+	height: 100%;
+}
+
+.navbar ul li {
+	color: black;
+}
+

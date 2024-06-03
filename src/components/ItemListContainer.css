@@ -1,0 +1,12 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+.container p {
+	color: rgb(224, 60, 60);
+	font-size: 30px;
+}
