@@ -1,4 +1,4 @@
-# React - CoderHouse: [Primera Entrega](https://ezeledesma.github.io/proyecto-react/)
+# React - CoderHouse: [Primera Entrega](https://github.com/ezeledesma/proyecto-reactjs)
 
 ## Temas Aplicados del Curso
 * Jsx
